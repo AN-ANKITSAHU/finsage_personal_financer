@@ -217,7 +217,3 @@ FinSage is an **educational AI assistant** built as a capstone project. It does 
 
 ---
 
-## Author
-
-Agentic AI Capstone — Batch 2026  
-Course Instructor: Dr. Kanthi Kiran Sirra
